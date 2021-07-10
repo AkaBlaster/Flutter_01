@@ -1,32 +1,17 @@
 import 'package:flutter/material.dart';
+import 'package:myapp/screens/detailed_audio_page.dart';
+import 'package:myapp/screens/home_page.dart';
 
-class CustomColors {
-  static const Color RandomColor1 = Color(0xFF808080);
-}
+import './screens/detailed_audio_page.dart';
 
-void main() {
-  runApp(new MaterialApp(
-    debugShowCheckedModeBanner: false,
-    home: Home(),
-    theme: ThemeData(
-      brightness: Brightness.dark,
-      primaryColor: Color(0xFF808080),
-    ),
-  ));
-}
+void main() => runApp(MyApp());
 
-class Home extends StatefulWidget {
-  @override
-  _HomeState createState() => _HomeState();
-}
-
-class _HomeState extends State<Home> {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Flutter Movie App"),
-      ),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Homepage(),
     );
   }
 }

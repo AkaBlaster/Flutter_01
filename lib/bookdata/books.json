@@ -1,0 +1,58 @@
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "assets/img/book10.png",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958,
+    "rating": 4.5
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "assets/img/book9.png",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836,
+    "rating": 3.5
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "assets/img/book11.png",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315,
+    "rating": 2.5
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "assets/img/book12.png",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700,
+    "rating": 5
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "assets/img/book13.png",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600,
+    "rating": 4.5
+  }
+ 
+]
